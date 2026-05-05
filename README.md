@@ -4,18 +4,18 @@ PyraMixer is a multi-scale time series forecasting model based on a pyramid arch
 
 ## Project Overview
 
-PyraMixer employs an innovative pyramid-based multi-scale hybrid architecture to achieve high-accuracy long-term forecasting. The core idea of the model is to decompose the input sequence into multiple scale levels using interval sampling, then extract features and perform forecasting with MSM.
+PyraMixer employs an innovative pyramid-based multi-scale hybrid architecture to achieve high-accuracy long-term forecasting. The core idea of the model is to decompose the input sequence into multiple scale levels using interval sampling. Then, MSM and ARR is used to extract features and perform forecasting.
 
 ## Model Architecture
 
 ### PyraMixer Core Components
 
-- **Splitting**: Sequence decomposition module that divides the input time series into even and odd parts
-- **DGS**: Deep Gating Module for feature selection and filtering
+- **Splitting**: Sequence decomposition module that divides the input time series into subsequence and residual parts
+- **DGS**: get a multi-scale pyramid
 - **FFTMix**: Frequency-domain feature mixer based on Fast Fourier Transform
 - **SampleLinear**: Sampling linear transformation layer
 - **MSM**: Multi-Scale Mixing module
-- **LRSNU**: Long Sequence Update Network
+- **LRSNU**:  a branch of PyraMixer. PyraMixer can construct multiple branches. Our paper use one branch of PyraMixer.
 
 ### Supported Models
 
