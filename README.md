@@ -97,35 +97,6 @@ bash scripts/PyraMixer_Long.sh
 
 ## Parameter Configuration
 
-Key training parameters include:
-
-| Parameter | Description | Default Value |
-|-----------|-------------|---------------|
-| --is_training | Training mode | 1 |
-| --model_id | Model identifier | test |
-| --model | Model name | PyraMixer |
-| --data | Dataset name | ETTh1 |
-| --features | Prediction type | M |
-| --seq_len | Input sequence length | 96 |
-| --label_len | Label length | 48 |
-| --pred_len | Prediction length | 96 |
-| --enc_in | Encoder input dimension | 7 |
-| --dec_in | Decoder input dimension | 7 |
-| --c_out | Output dimension | 7 |
-| --d_model | Model dimension | 512 |
-| --n_heads | Number of attention heads | 8 |
-| --e_layers | Number of encoder layers | 2 |
-| --d_layers | Number of decoder layers | 1 |
-| --d_ff | Feedforward network dimension | 2048 |
-| --moving_avg | Moving average window | 25 |
-| --factor | Attention factor | 1 |
-| --distil | Distillation factor | True |
-| --dropout | Dropout rate | 0.1 |
-| --embed | Embedding type | timeF |
-| --activation | Activation function | gelu |
-| --output_attention | Output attention | False |
-| --do_predict | Prediction mode | False |
-
 ## Project Structure
 
 ```
