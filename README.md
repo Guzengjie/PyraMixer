@@ -95,20 +95,17 @@ We provide easy-to-run shell scripts (.sh files) in the scripts/ folder for trai
 ```bash
 bash scripts/PyraMixer_Long.sh
 
-## Parameter Configuration
-
-## Project Structure
-
 ```
-.
-├── data_provider/          # Data loading module
+### Project Structure
+```text
+├── data_provider/            # Data loading module
 │   ├── data_factory.py
 │   └── data_loader_utf8.py
-├── datasets/               # Dataset files
-├── exp/                   # Experiment base class
+├── datasets/                 # Dataset files
+├── exp/                      # Experiment base class
 │   ├── exp_basic.py
 │   └── exp_main_LTSF.py
-├── layers/                # Neural network layers
+├── layers/                   # Neural network layers
 │   ├── AutoCorrelation.py
 │   ├── Autoformer_EncDec.py
 │   ├── Embed.py
@@ -118,7 +115,7 @@ bash scripts/PyraMixer_Long.sh
 │   ├── RevIN.py
 │   ├── SelfAttention_Family.py
 │   └── Transformer_EncDec.py
-├── models/                # Forecasting models
+├── models/                   # Forecasting models
 │   ├── PyraMixer.py
 │   ├── DLinear.py
 │   ├── FEDformer.py
@@ -148,6 +145,11 @@ The project uses the following metrics for model evaluation:
 - **RMSE**: Root Mean Squared Error
 - **MAPE**: Mean Absolute Percentage Error
 - **MSPE**: Mean Squared Percentage Error
+
+- **MACs**: Multiply-Accumulate Operations ,(G)
+- **Params**: Number of Parameters, (M)
+- **MaxMem.**: Maximum GPU Memory Footprint, (MB)
+- **Inf. Time**: Inference Time, (ms)
 
 ## Citation
 
