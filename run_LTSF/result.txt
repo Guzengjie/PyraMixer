@@ -1,0 +1,6 @@
+test__PyraMixer_ETTh1_M_sl96_pl96_norm1_LN1_act0_ar1_fftTrue_alpha2_seed2024_0_48_2_2  
+mse:0.3294, mae:0.3758
+
+val__PyraMixer_ETTh1_M_sl96_pl96_norm1_LN1_act0_ar1_fftTrue_alpha2_seed2024_0_48_2_2  
+mse:0.5782, mae:0.4743
+

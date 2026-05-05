@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="43e3835e-6909-4995-a7b9-e2d11ddb39fa" name="更改" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/PyraMixer.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_provider/data_factory.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_provider/data_loader_utf8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exp/exp_basic.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exp/exp_main_LTSF.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layers/AutoCorrelation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layers/Autoformer_EncDec.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layers/Conv_Blocks.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layers/Embed.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layers/FourierCorrelation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layers/MultiWaveletCorrelation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layers/PatchEmbedding.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layers/PatchTST_backbone.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layers/PatchTST_layers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layers/RevIN.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layers/SelfAttention_Family.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layers/StandardNorm.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layers/Transformer_EncDec.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layers/utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/AMD.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/DLinear.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/FEDformer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/LightTS.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/PatchTST.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/PyraMixer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/SCINet.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/TimeMixer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/TimesNet.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/common.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/tsmoe.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run_LTSF/run_AMD.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run_LTSF/run_DLinear.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run_LTSF/run_LightTS.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run_LTSF/run_PatchTST.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run_LTSF/run_PyraMixer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run_LTSF/run_SCINet.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run_LTSF/run_TimeMixer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/masking.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/metrics.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/timefeatures.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/tools.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/visual.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/visual_etth2_ecl_weather.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 4
+}]]></component>
+  <component name="ProjectId" id="3DGI9ivkNM7UYy8yiqnS8CKRKAw" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.run_AMD.executor": "Run",
+    "Python.run_DLinear.executor": "Run",
+    "Python.run_LightTS.executor": "Run",
+    "Python.run_PatchTST.executor": "Run",
+    "Python.run_PyraMixer.executor": "Run",
+    "Python.run_SCINet.executor": "Run",
+    "Python.run_TimeMixer.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "/home/gzj/PycharmProjects/PyraMixer/models"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/models" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/run_LTSF" />
+      <recent name="$PROJECT_DIR$/layers" />
+      <recent name="$PROJECT_DIR$/exp" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.run_SCINet">
+    <configuration name="run_DLinear" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PyraMixer" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/run_LTSF" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/run_LTSF/run_DLinear.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="run_LightTS" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PyraMixer" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/run_LTSF" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/run_LTSF/run_LightTS.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="run_PatchTST" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PyraMixer" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/run_LTSF" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/run_LTSF/run_PatchTST.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="run_SCINet" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PyraMixer" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/run_LTSF" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/run_LTSF/run_SCINet.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="run_TimeMixer" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PyraMixer" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/run_LTSF" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/run_LTSF/run_TimeMixer.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.run_SCINet" />
+        <item itemvalue="Python.run_TimeMixer" />
+        <item itemvalue="Python.run_PatchTST" />
+        <item itemvalue="Python.run_DLinear" />
+        <item itemvalue="Python.run_LightTS" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-d9fa9deec7cb-d902c0275401-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-252.23892.515" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="43e3835e-6909-4995-a7b9-e2d11ddb39fa" name="更改" comment="" />
+      <created>1777901829595</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1777901829595</updated>
+    </task>
+    <servers />
+  </component>
+</project>
