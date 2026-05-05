@@ -1,6 +1,6 @@
 # PyraMixer
 
-PyraMixer is a multi-scale time series forecasting model based on a pyramid architecture. This codebase implements a complete time series forecasting framework supporting various advanced deep learning models for both univariate and multivariate time series prediction tasks.
+PyraMixer is a multi-scale time series forecasting model based on a pyramid architecture. This codebase implements a complete time series forecasting framework supporting various advanced deep learning models for multivariate time series prediction tasks.
 
 ## Project Overview
 
