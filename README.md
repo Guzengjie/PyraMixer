@@ -4,7 +4,7 @@ PyraMixer is a multi-scale time series forecasting model based on a pyramid arch
 
 ## Project Overview
 
-PyraMixer employs an innovative pyramid-based multi-scale hybrid architecture to achieve high-accuracy long-term forecasting. The core idea of the model is to decompose the input sequence into multiple scale levels using interval sampling, then extract features and perform forecasting using MSM.
+PyraMixer employs an innovative pyramid-based multi-scale hybrid architecture to achieve high-accuracy long-term forecasting. The core idea of the model is to decompose the input sequence into multiple scale levels using interval sampling, then extract features and perform forecasting with MSM.
 
 ## Model Architecture
 
